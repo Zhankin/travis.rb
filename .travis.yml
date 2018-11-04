@@ -35,3 +35,4 @@ jobs:
         on:
           repo: travis-ci/travis.rb
           ruby: 2.0.0
+travis encrypt SLACK_WEBHOOK_URL="https://hooks.slack.com/services/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"  --add
